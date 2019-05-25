@@ -1,4 +1,4 @@
-# How-to-generate-refresh-token-if-Token-has-been-expired-or-revoked-
+# How-to-generate-refresh-token-if-Token-has-been-expired-or-revoked?
 How to generate refresh token if Token has been expired or revoked?
 
 #Authorization flow has only two steps.
